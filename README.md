@@ -1,2 +1,2 @@
 # TrackCell
-Tracking cells in PDMS microfluidic chips in bright field images
+Tracking cells in PDMS microfluidic chips in phase-contrast images
